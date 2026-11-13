@@ -1,0 +1,8 @@
+{
+  "name": "UK Telecom NOC Multi-Agent Platform",
+  "description": "Autonomous UK telecom Network Operations Center platform with Digital Twin, Incident Triage, and Problem Management agents powered by SQLite and Excel ingestion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
